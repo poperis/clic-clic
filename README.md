@@ -1,2 +1,2 @@
 # clic-clic
-Clicker Game in unity.
+Clicker game in Unity.
