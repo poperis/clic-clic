@@ -1,2 +1,2 @@
 # clic-clic
-Clicker game in Unity.
+Clicker game in Unity. An open-source project. 
